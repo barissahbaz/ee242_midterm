@@ -1,0 +1,9 @@
+baris sahbaz
+
+Asciiname=529
+asciisurname=633
+asciitotal=1162
+Timernumber=1
+ARRNUMBER=65535
+Duration=18990
+LEDPINNUMBER=14
